@@ -447,6 +447,11 @@ const LandingPage = () => {
         </div>
       </div>
       <Footer />
+      <div className="logo-WA float- d-xl-none">
+        <a href="">
+        <img className="img-fluid fixed-bottom logo-WA" src="/img/WhatsApp-Logo.svg" alt="" width={100} height={100}/>
+        </a>
+      </div>
     </div>
   );
 };
