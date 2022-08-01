@@ -1,0 +1,14 @@
+body , html{
+  width: 100% !important;
+	height: 100% !important;
+  overflow-x: hidden;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  background: #fafcff;
+}
+*::-webkit-scrollbar-thumb {
+  background: #fbb03b;
+  border-radius: 2px;
+}
