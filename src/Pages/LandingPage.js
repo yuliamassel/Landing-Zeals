@@ -52,7 +52,82 @@ const LandingPage = () => {
     <div className="container-fluid gx-0" id="home">
       <Navbar />
       <Carousel>
-        <Carousel.Item>
+        <Carousel.Item className="item-carousel bg-orange">
+          <div className="row">
+            <div className="col-12 col-sm-6 text-end">
+              <img
+                className="mt-3 img-fluid img-slide mr-3"
+                src="/img/products/banner_dmp.webp"
+                alt="First slide"
+              />
+            </div>
+            <div className="col-12 col-sm-6">
+              <div className="">
+                <h3 className="txt-join">Join Us Now!</h3>
+                <h1 className="txt-slide">
+                  #1 <br /> Digital Marketing <br /> Platform
+                </h1>
+                <a
+                  href="https://app.zeals.asia/register"
+                  className="btn-join mt-3"
+                >
+                  Join Our Affiliator
+                </a>
+              </div>
+            </div>
+          </div>
+        </Carousel.Item>
+        <Carousel.Item className="item-carousel bg-item">
+          <div className="row">
+            <div className="col-12 col-sm-6 text-end">
+              <img
+                className="mt-3 img-fluid img-slide mr-3"
+                src="/img/products/banner_dmp.webp"
+                alt="First slide"
+              />
+            </div>
+            <div className="col-12 col-sm-6">
+              <div className="">
+                <h3 className="txt-join">Join Us Now!</h3>
+                <h1 className="txt-slide">
+                  #1 <br /> Digital Marketing <br /> Platform
+                </h1>
+                <a
+                  href="https://app.zeals.asia/register"
+                  className="btn-join mt-3"
+                >
+                  Join Our Affiliator
+                </a>
+              </div>
+            </div>
+          </div>
+        </Carousel.Item>
+        <Carousel.Item className="item-carousel bg-green">
+          <div className="row">
+            <div className="col-12 col-sm-6 text-end">
+              <img
+                className="mt-3 img-fluid img-slide mr-3"
+                src="/img/products/banner_dmp.webp"
+                alt="First slide"
+              />
+            </div>
+            <div className="col-12 col-sm-6">
+              <div className="">
+                <h3 className="txt-join">Join Us Now!</h3>
+                <h1 className="txt-slide">
+                  #1 <br /> Digital Marketing <br /> Platform
+                </h1>
+                <a
+                  href="https://app.zeals.asia/register"
+                  className="btn-join mt-3"
+                >
+                  Join Our Affiliator
+                </a>
+              </div>
+            </div>
+          </div>
+        </Carousel.Item>
+        <Carousel.Item className="item-carousel bg-blue">
           <div className="row">
             <div className="col-12 col-sm-6 text-end">
               <img
@@ -447,7 +522,7 @@ const LandingPage = () => {
         </div>
       </div>
       <Footer />
-      <div className="logo-WA float- d-xl-none">
+      <div className="logo-WA">
         <a href="https://wa.me/+628118189895">
         <img className="img-fluid fixed-bottom logo-WA" src="/img/WhatsApp-Logo.svg" alt="" width={100} height={100}/>
         </a>

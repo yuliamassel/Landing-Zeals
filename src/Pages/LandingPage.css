@@ -3,10 +3,33 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 7rem;
+  /* padding: 7rem; */
   width: 100%;
   height: 825px;
   background-color: #ffa820;
+}
+
+.item-carousel{
+  /* background-color: #000; */
+  width: 100%;
+  height: 825px;
+  padding: 10rem;
+}
+
+.bg-orange{
+  background-color: #ffa820;
+}
+
+.bg-item{
+  background-color: #000000;
+}
+
+.bg-green{
+  background-color: #58D68D ;
+}
+
+.bg-blue{
+  background-color: #4579f4;
 }
 
 .carousel-control-next-icon {
@@ -57,7 +80,7 @@
   flex-direction: column;
   text-align: start;
   margin-left: 18rem;
-  margin-top: 4rem;
+  margin-top: 15rem;
   /* background-color: #5db6f2; */
   width: 900px;
 }
@@ -466,6 +489,11 @@
   justify-content: center;
 }
 
+.logo-WA{
+  margin-left: 90rem!important;
+  width: 180px;
+}
+
 @media screen and (max-width: 1024px) {
   .txt-join {
     font-size: 28px;
@@ -571,6 +599,11 @@
     margin-left: 0.4rem;
   }
 
+  .item-carousel{
+    padding: 5rem;
+    height: 500px;
+  }
+
   .first-slide {
     margin-bottom: -2rem;
     margin-left: 13rem;
@@ -673,9 +706,22 @@
   }
   .carousel {
     margin-top: 65px;
-    padding: 3rem;
+    padding: 0rem;
     height: 550px;
   }
+
+  .item-carousel{
+    padding: 5rem!important;
+    height: 80vh!important;
+  }
+
+  .item-carousel{
+    margin-top: 65px!important;
+    padding: 3rem!important;
+    height: 580px!important;
+    width: 100%;
+  }
+
   .features .py-5{
     padding-right: 0px;
   }
@@ -828,10 +874,6 @@
     border-radius: 20px;
   }
 
-  .ratings {
-
-  }
-
   .txt-rating-mobile {
     font-family: "Open Sans";
     font-style: normal;
@@ -893,27 +935,12 @@
     font-size: 13px !important;
     line-height: 36px;
   }
-  .clients h2 {
-
-  }
-
-  .clients p {
-
-  }
-
-  .img-clients {
-
-  }
 
   .img-clients-mobile {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-  }
-
-  .contacts {
-
   }
 
   .contacts-mobile {
@@ -988,10 +1015,6 @@
     color: #ffffff;
   }
 
-  .social-media{
-
-  }
-
   .ratings{
     overflow-y: hidden;
   }
@@ -1023,7 +1046,8 @@
   }
 
   .logo-WA{
-    margin-left: 17rem!important
+    margin-left: 17rem!important;
+    width: 100px;
   }
 }
 
