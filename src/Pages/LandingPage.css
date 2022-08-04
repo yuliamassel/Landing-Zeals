@@ -22,6 +22,10 @@
 
 .bg-item{
   background-color: #000000;
+  /* margin-top: 5rem;
+  background-size: 100% 825px;
+  background-repeat: no-repeat;
+  background-image: url(/public//img//products//bfi.png); */
 }
 
 .bg-green{
@@ -662,6 +666,13 @@
     padding-top: 0 !important;
     padding-bottom: 0 !important;
   }
+  
+  .profile img {
+    width: 84px;
+    height: 84px;
+    margin-left: -42px;
+  }
+
   .ratings{
     margin-top: 20px !important;
     padding-top: 25px !important;
