@@ -168,7 +168,7 @@ const LandingPage = () => {
             <div className="row">
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/affiliate_marketing.jpg"
+                  src="/img/products/AFFILIATE MARKETING.jpg"
                   alt=""
                   width={480}
                   className="img-fluid me-4 pull-right"
@@ -210,7 +210,7 @@ const LandingPage = () => {
               </div>
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/online_to_offline.jpg"
+                  src="/img/products/ONLINE TO OFFLINE.jpg"
                   alt=""
                   width={480}
                   className="img-fluid ms-4"
@@ -224,7 +224,7 @@ const LandingPage = () => {
             <div className="row">
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/social_media_listening.jpg"
+                  src="/img/products/SOCIAL MEDIA LISTENING.jpg"
                   alt=""
                   width={480}
                   className="img-fluid me-4"
@@ -267,7 +267,7 @@ const LandingPage = () => {
               </div>
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/digital_marketing_consultant.jpg"
+                  src="/img/products/DIGITAL MARKETING CONSULTANT.jpg"
                   alt=""
                   width={480}
                   className="img-fluid ms-4"
@@ -281,7 +281,7 @@ const LandingPage = () => {
             <div className="row">
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/social_media_scoring.jpg"
+                  src="/img/products/SOCIAL MEDIA SCORING.jpg"
                   alt=""
                   width={480}
                   className="img-fluid me-4"
@@ -320,7 +320,7 @@ const LandingPage = () => {
               </div>
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/influencer_marketing.jpg"
+                  src="/img/products/INFLUENCER MARKETING.jpg"
                   alt=""
                   width={480}
                   className="img-fluid"
@@ -334,7 +334,7 @@ const LandingPage = () => {
             <div className="row">
               <div className="col-xs-12 col-sm-5 text-center">
                 <img
-                  src="/img/products/awarding.jpg"
+                  src="/img/products/AWARDING1.jpg"
                   alt=""
                   width={480}
                   className="img-fluid me-4"

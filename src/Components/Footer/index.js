@@ -70,7 +70,7 @@ const Footer = () => {
               </a>
             </div>
             <a
-              href="https://www.youtube.com/watch?v=QqJ-Vp8mvbk&list=RDmwraxVtD7sc&index=9"
+              href=""
               className="link"
             >
               2022 zealsasia. All Rights Reserved
